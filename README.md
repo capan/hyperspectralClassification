@@ -1,1 +1,1 @@
-# matlab_class
+# classification of hyperspectral image using matlab
