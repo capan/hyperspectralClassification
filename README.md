@@ -1,9 +1,3 @@
-# classification of hyperspectral image using matlab
+# Supervised Image Classification of Hyperspectral Image
 
-
-
-Accuracy = the number of Correctly Classified Pixels / total Number of ground truth pixels of that class
-
-
-
-Reliability = the Number of Correctly Classified Pixels / total Number of Pixels classified as this class 
+This repository contains an example of hyperspectral image classification using Matlab as a part of remote sensing lecture in Middle East Technical University.
